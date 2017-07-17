@@ -25,7 +25,8 @@ namespace ConsoleApp3
                 new Box("geid"), new Box("cpil"), new Box("cprt"), new Box("gnre"), new Box("ilst"),
                 new Box("minf"), new Box("hnti"), new Box("matt"), new Box("mdia"), new Box("moof"),
                 new Box("hinf"), new Box("pinf"), new Box("plid"), new Box("rtng"), new Box("schi"),
-                new Box("stbl"), new Box("sinf"), new Box("stik"), new Box("tmpo"), new Box("traf"),
+                new Box("stbl"), new Box("sinf"), new Box("stik"), new Box("tmpo"), new Box("traf"), new Box("stsc"), new Box("stsz"), new Box("meta"),new Box("hdlr"),
+                new Box("avcC"),new Box("dref"),new Box("elst"),
                 new Box("trak"), new Box("trkn"), new Box("udta")
             };
 
